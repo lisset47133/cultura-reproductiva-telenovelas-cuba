@@ -1,0 +1,19 @@
+# Datos con información personal: no publicar
+comentarios/
+comentarios_filtrados/
+Ultimos trabajos/
+*.csv
+*.xlsx
+
+# Resultados generados
+*.png
+resumen_metricas_*.txt
+
+# Credenciales
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/

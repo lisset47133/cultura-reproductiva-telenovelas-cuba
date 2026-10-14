@@ -1,0 +1,21 @@
+# Paso 1: extracción de comentarios de YouTube
+google-api-python-client>=2.0
+
+# Paso 2: filtrado semántico
+sentence-transformers>=2.2
+torch
+
+# Paso 3: categorización con Gemini
+google-generativeai>=0.8
+tqdm
+
+# Comunes / métricas
+pandas>=2.0
+openpyxl
+
+# Paso 5: nubes de palabras
+nltk
+wordcloud
+matplotlib
+numpy
+Pillow

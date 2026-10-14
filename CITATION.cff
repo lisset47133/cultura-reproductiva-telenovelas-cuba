@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Si utiliza este código, por favor cítelo como se indica a continuación."
+title: >-
+  Código de análisis para "Comunicación y cultura reproductiva en Cuba.
+  Un análisis desde el consumo cultural de telenovelas"
+type: software
+authors:
+  - family-names: Bourzac Macia
+    given-names: Lisset
+    affiliation: Universidad de Málaga
+    orcid: "https://orcid.org/0000-0002-5453-5807"
+version: 1.0.0
+date-released: "2026-10-14"
+license: MIT
+abstract: >-
+  Scripts en Python para extraer comentarios de YouTube sobre telenovelas
+  cubanas, filtrarlos semánticamente, clasificarlos en categorías de cultura
+  reproductiva mediante un modelo de lenguaje (Gemini) y calcular métricas
+  descriptivas y nubes de palabras. Elaborados para la tesis doctoral
+  "Comunicación y cultura reproductiva en Cuba. Un análisis desde el consumo
+  cultural de telenovelas" (Universidad de Málaga).
+keywords:
+  - cultura reproductiva
+  - telenovelas
+  - Cuba
+  - consumo cultural
+  - YouTube
+  - análisis de comentarios
+  - procesamiento del lenguaje natural
+references:
+  - type: thesis
+    title: >-
+      Comunicación y cultura reproductiva en Cuba. Un análisis desde el
+      consumo cultural de telenovelas
+    authors:
+      - family-names: Bourzac Macia
+        given-names: Lisset
+        orcid: "https://orcid.org/0000-0002-5453-5807"
+    institution:
+      name: Universidad de Málaga
+    thesis-type: Tesis doctoral
