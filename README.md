@@ -1,5 +1,7 @@
 # Comunicación y cultura reproductiva en Cuba — código de análisis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23363059.svg)](https://doi.org/10.5281/zenodo.23363059)
+
 Scripts utilizados en la tesis doctoral **"Comunicación y cultura reproductiva en Cuba. Un análisis desde el consumo cultural de telenovelas"** (Universidad de Málaga), de **Lisset Bourzac Macia** ([ORCID 0000-0002-5453-5807](https://orcid.org/0000-0002-5453-5807)).
 
 El código extrae los comentarios publicados en YouTube sobre telenovelas cubanas (*Renacer*, *Viceversa*, *Asuntos pendientes* y el programa *Sábados de Gloria*), selecciona los que tratan temas de cultura reproductiva, los clasifica por categoría temática y calcula métricas descriptivas y nubes de palabras.
@@ -8,7 +10,7 @@ El código extrae los comentarios publicados en YouTube sobre telenovelas cubana
 
 Si utiliza este código, cite el depósito (ver también `CITATION.cff`):
 
-> Bourzac Macia, L. (2026). *Código de análisis para "Comunicación y cultura reproductiva en Cuba. Un análisis desde el consumo cultural de telenovelas"* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Bourzac Macia, L. (2026). *Código de análisis para "Comunicación y cultura reproductiva en Cuba. Un análisis desde el consumo cultural de telenovelas"* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23363059
 
 ## Flujo de trabajo
 
